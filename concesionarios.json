@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "BMW",
+        "direccion": "Nnana",
+        "automoviles": [
+            {
+                "marca": "bmw",
+                "modelo": "320",
+                "anio": "1999",
+                "precio": "2003"
+            },
+            {
+                "marca": "bmw",
+                "modelo": "330",
+                "anio": "12222",
+                "precio": "123123"
+            },
+            {
+                "marca": "BMW",
+                "modelo": "450",
+                "anio": "2003",
+                "precio": "1900"
+            },
+            {
+                "marca": "bmw",
+                "modelo": "311",
+                "anio": "1222",
+                "precio": "12"
+            }
+        ]
+    }
+]
